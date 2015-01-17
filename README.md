@@ -16,4 +16,4 @@ wget -P ~/Library/Colors https://raw.github.com/hemantasapkota/FlatUIColorPalett
 
 Restart **XCode** to start using the palette.
 
-Follow me on twitter: [@hemantasapkota](https://twitter.com/laex_pearl) and don't forget to star this project.
+Follow me on twitter: [@hemantasapkota](https://twitter.com/ozhemanta) and don't forget to star this project.
